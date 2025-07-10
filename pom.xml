@@ -12,6 +12,7 @@
 
     <modules>
         <module>langchain4j-01helloworld</module>
+        <module>langchain4j-02multi-model-together</module>
     </modules>
 
     <properties>

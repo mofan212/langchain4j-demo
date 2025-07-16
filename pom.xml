@@ -19,6 +19,7 @@
         <module>langchain4j-06chat-image</module>
         <module>langchain4j-07chat-stream</module>
         <module>langchain4j-08chat-memory</module>
+        <module>langchain4j-09chat-prompt</module>
     </modules>
 
     <properties>

@@ -1,0 +1,12 @@
+server:
+  port: 9999
+  # 设置响应的字符编码，避免流式返回输出乱码
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
+
+spring:
+  application:
+    name: langchain4j-09chat-prompt

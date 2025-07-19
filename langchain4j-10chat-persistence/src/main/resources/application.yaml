@@ -1,0 +1,21 @@
+server:
+  port: 9998
+  # 设置响应的字符编码，避免流式返回输出乱码
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
+
+spring:
+  application:
+    name: langchain4j-10chat-persistence
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      # 15 是空的，用 15
+      database: 15
+      connect-timeout: 3s
+      timeout: 2s
+      password: 123456

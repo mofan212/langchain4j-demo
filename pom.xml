@@ -20,6 +20,7 @@
         <module>langchain4j-07chat-stream</module>
         <module>langchain4j-08chat-memory</module>
         <module>langchain4j-09chat-prompt</module>
+        <module>langchain4j-10chat-persistence</module>
     </modules>
 
     <properties>

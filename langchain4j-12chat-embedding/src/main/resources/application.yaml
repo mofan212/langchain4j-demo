@@ -1,0 +1,6 @@
+server:
+  port: 9998
+
+spring:
+  application:
+    name: langchain4j-12chat-embedding

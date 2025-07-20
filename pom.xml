@@ -23,6 +23,7 @@
         <module>langchain4j-10chat-persistence</module>
         <module>langchain4j-11chat-function-calling</module>
         <module>langchain4j-12chat-embedding</module>
+        <module>langchain4j-13chat-easy-rag</module>
     </modules>
 
     <properties>

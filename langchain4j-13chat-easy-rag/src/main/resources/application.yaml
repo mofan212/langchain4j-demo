@@ -1,0 +1,6 @@
+server:
+  port: 9995
+
+spring:
+  application:
+    name: langchain4j-13chat-rag

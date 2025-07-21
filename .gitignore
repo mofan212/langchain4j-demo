@@ -39,3 +39,4 @@ build/
 ### Java class files ###
 *.class
 **/target
+.flattened-pom.xml
